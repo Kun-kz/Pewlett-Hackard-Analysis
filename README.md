@@ -19,7 +19,7 @@ Retiring_titles.csv and mentorship_eligibilty.csv in the Data folder contained o
 -	1549 current employees who were about to retire were eligible for the Mentorship Program.
 
 ## Summary
-Our results indicated that there were 90398 employees in total who would retire soon. 1549 employees among them were eligible for the mentorship program. 
+Our results indicated that there were 90398 employees in total who would retire soon. The numbers of retiring employees by title were: 29414 Senior Engineers, 28254 Senior Staff, 14222 Engineers, 12243 staff, 4502 Technique Leaders, 1761 Assistant Engineers, and 2 Managers. 1549 employees among them were eligible for the mentorship program. 
 
 By adding two following additional queries, we were able to provide more detailed information about the number of mentorship employees per title and the two departments which might need to hire managers.
 
