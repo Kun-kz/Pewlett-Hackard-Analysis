@@ -27,9 +27,11 @@ Table 1 The queries.
 ![](Additional/Pic1.png)
 
 Table 2 showed the number of mentorship employees per title. Our result showed that there were 569 Senior Staff, 529 Senior Engineers, 190 Engineers, 155 Staff, 77 Technique Leaders, and 29 Assistant Engineers in the mentorship program. The result indicated that there were enough qualified, retirement-ready employees in the departments to mentor the next generation employees.
+
 Table 2 The number of mentorship employees per title.
 ![](Additional/Pic2.png)
 
 Table 3 showed the two department managers who were ready to retire. There might be promotion chances for Sales and Research department employees since their managers were ready to retire.
+
 Table 3 The department managers who were about to retire.
 ![](Additional/Pic3.png)
